@@ -24,8 +24,8 @@
 
 ![真实编辑器中的虚构周复盘草稿，尚未保存](docs/assets/portfolio/review-draft.png)
 
-示例流程：创建学习项目 → 拆成三条行动 → 完成一条并记录投入 → 回顾收获与下一步。复盘画面是未保存的编辑器，不表示已经提交复盘。
+示例流程：创建学习项目 → 拆成三条行动 → 完成一条并记录投入 → 回顾收获与下一步。
 
 实现采用React／TypeScript、FastAPI／SQLAlchemy、PostgreSQL／Redis与Docker Compose。目前只在Windows＋Docker Desktop及指定浏览器环境中验证。已知运行依赖风险尚未全部解决，不建议用于公网部署或真实敏感资料。
 
-**源码保持私有。** 有兴趣进一步审阅，可[提交源码查看申请](https://github.com/Sterius154/lieyang-showcase/issues/new)，说明查看目的；由项目持有人决定是否开放访问。申请内容公开可见，请勿提交私人联系方式、账号凭据或敏感资料。
+**源码保持私有。** 有兴趣进一步审阅，可[提交源码查看申请](https://github.com/Sterius154/the-sun/issues/new)，说明查看目的；由项目持有人决定是否开放访问。申请内容公开可见，请勿提交私人联系方式、账号凭据或敏感资料。
