@@ -28,4 +28,4 @@
 
 实现采用React／TypeScript、FastAPI／SQLAlchemy、PostgreSQL／Redis与Docker Compose。目前只在Windows＋Docker Desktop及指定浏览器环境中验证。已知运行依赖风险尚未全部解决，不建议用于公网部署或真实敏感资料。
 
-**源码保持私有。** 有兴趣进一步审阅，可[提交源码查看申请](https://github.com/Sterius154/the-sun/issues/new)，说明查看目的；由项目持有人决定是否开放访问。申请内容公开可见，请勿提交私人联系方式、账号凭据或敏感资料。
+**源码保持私有。** 有兴趣进一步审阅，可[提交源码查看申请](https://github.com/Sterius154/sun/issues/new)，说明查看目的；由项目持有人决定是否开放访问。申请内容公开可见，请勿提交私人联系方式、账号凭据或敏感资料。
